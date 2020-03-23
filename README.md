@@ -1,7 +1,6 @@
 # V2ray2mellow
 
-将[V2ray](https://github.com/2dust/v2rayN)的订阅链接转换为
-[mellow](https://github.com/mellow-io/mellow)配置。
+将[V2ray](https://github.com/2dust/v2rayN)的订阅链接转换为[mellow](https://github.com/mellow-io/mellow)配置。
 
 ## 使用方法
 
